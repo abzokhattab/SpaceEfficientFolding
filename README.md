@@ -96,8 +96,8 @@ Best candidate: Final configuration with utilization ratio: 0.85
 
 ## Contributors
 
-- [Your Name]
-- [Your Teammate's Name]
+- Abiel Yacob
+- Abdelrahman Khattab
 
 ## License
 
