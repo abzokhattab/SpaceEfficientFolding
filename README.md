@@ -1,4 +1,4 @@
-# Space-Efficient Folding Algorithm Pipeline
+# Space-Efficient Unfolding Algorithm Pipeline
 
 ## Overview
 
