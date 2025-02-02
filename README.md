@@ -97,8 +97,3 @@ Best candidate: Final configuration with utilization ratio: 0.85
 
 - Abiel Yacob
 - Abdelrahman Khattab
-
-## License
-
-This project is open-source and licensed under [MIT License].
-
