@@ -92,7 +92,6 @@ Best candidate: Final configuration with utilization ratio: 0.85
 - Implement an **iterative feedback loop** to refine unfoldings dynamically.
 - Extend to **arbitrary 3D models** beyond cubes.
 - Implement **machine learning-based optimizations** for better cutting strategies.
-- Use **GPU acceleration** for faster nesting computations.
 
 ## Contributors
 
